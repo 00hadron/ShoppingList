@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="text_add_item_dialog">Add a new Shopping Item</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_amount">Amount</string>
+    <string name="tv_add">ADD</string>
+    <string name="tv_cancel">CANCEL</string>
+    <string name="text_amount">Amount</string>
+    <string name="enter_amount_toast">Please enter a amount</string>
+    <string name="enter_name_toast">Please, enter a name</string>
+</resources>
